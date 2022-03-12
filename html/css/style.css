@@ -1,0 +1,114 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+.top{
+
+  background-color: #F7F7F7;
+  margin: 0;
+  width: 100%;
+  position: relative;
+}
+h1{
+  font-family: Cookie;
+  font-size:90px;
+  margin: 0;
+}
+h2{
+  font-family: cursive;
+}
+
+.one{
+  margin-top:  20px;
+  position: relative;
+  left: 200px;
+}
+.two{
+position: relative;
+margin: 0;
+bottom: 400px;
+
+}
+hr{
+  border:none ;
+  margin: 0;
+
+
+
+}
+.middle{
+  background-color: #CDC9C3;
+  margin: 0;
+  position:relative;
+  height: 550px;
+
+}
+#er{
+  position: relative;
+  margin-top: 30px;
+}
+#head2{
+  position: relative;
+   right: 200px;
+   font-size: 45px;
+
+}
+.five{
+  position: relative;
+  margin: 0;
+  bottom: 200px;
+  right: 50px;
+  display: inline-block;
+}
+#head3{
+  position: relative;
+  font-size: 45px;
+  bottom: 400px;
+  left: 200px;
+
+}
+.four{
+  position: relative;
+  margin: 0;
+  bottom:500px;
+
+
+
+}
+.bottom{
+  position:relative;
+  margin: 0;
+  background-color: #AAAAAA;
+  height: 400px;
+}
+.head4{
+  color: black;
+}
+p{
+
+  width: 40%;
+  line-height: auto;
+  margin:  auto;
+  padding: 20px;
+  font-size: 150%;
+
+}
+.six{
+  margin: 0;
+  position: relative;
+  bottom: 200px;
+}
+.footer{
+  background-color: #555555;
+  color: white;
+  height: 500px;
+}
+.head5{
+  position: relative;
+  top: 150px;
+}
+.head6{
+  position: relative;
+   top: 50px;
+   color: white;
+}
